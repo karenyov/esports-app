@@ -8,3 +8,12 @@ Este repositório contém o código desenvolvido na parte Mobile.
 
 ### Rodando
 > Entrar na pasta do projeto e executar: 
+
+```sh 
+//instalando dependências 
+npm i 
+
+
+// executando APP
+expo start
+```
