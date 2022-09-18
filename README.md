@@ -17,3 +17,9 @@ npm i
 // executando APP
 expo start
 ```
+
+# Screenshots
+<p align="center">
+  <img src="https://github.com/karenyov/esports-app/blob/main/app.gif" width="400">
+</p>
+
